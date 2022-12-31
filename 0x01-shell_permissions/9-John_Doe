@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o11 101 011 hello
+chmod 111 101 011 hello
